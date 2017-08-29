@@ -7,7 +7,7 @@
        
         <html>
             <body>
-                The Sum is <xsl:value-of select="(//value1) - (//value2)"/>
+                The result is <xsl:value-of select="(//value1) - (//value2)"/>
             </body>
         </html>
         
